@@ -1,6 +1,6 @@
 const express = require('express')
 
-const ongController = require('./controller/ong-controller')
+const ongController = require('./controller/ong.controller')
 
 const routes = express.Router()
 
