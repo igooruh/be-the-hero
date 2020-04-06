@@ -30,9 +30,9 @@
           
 ### Tecnologia utilizada
 
-  -[SASS](https://sass-lang.com/)
-  -[NodeJS](https://nodejs.org/en/)
-  -[ReactJs](https://pt-br.reactjs.org/)
-  -[SQLite](https://www.sqlite.org/index.html)
-  -[Knex](http://knexjs.org/)
-  -[ExpressJs](https://expressjs.com/)
+  [SASS](https://sass-lang.com/)
+  [NodeJS](https://nodejs.org/en/)
+  [ReactJs](https://pt-br.reactjs.org/)
+  [SQLite](https://www.sqlite.org/index.html)
+  [Knex](http://knexjs.org/)
+  [ExpressJs](https://expressjs.com/)
